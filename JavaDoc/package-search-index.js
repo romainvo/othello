@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.mygdx.othello"},{"l":"com.mygdx.othello.controllers"},{"l":"com.mygdx.othello.models"},{"l":"com.mygdx.othello.views"}]
