@@ -8,6 +8,11 @@ hs_err_pid*
 ## Robovm
 /ios/robovm-build/
 
+##JavaDoc
+/JavaDoc
+
+/html
+
 ## GWT
 /html/war/
 /html/gwt-unitCache/
